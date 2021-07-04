@@ -1629,4 +1629,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 20px 0;
     height: 120px;
   }
+  div#lightbox {
+    top: 115em !important;
+  }
 }
